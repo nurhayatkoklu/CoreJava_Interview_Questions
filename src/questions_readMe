@@ -10,6 +10,7 @@ Array Questions
 
 String Questions
 1. Reverse a string without using predefined reverse methods
+2. Count number of Vowels & Consonants
 
 Math Questions
 1. Multiply two numbers without using multiply operator
@@ -20,6 +21,8 @@ Math Questions
 6. Find all numbers which can be divided by 3 and 5
 7. Find the factorial of a number
 8. Find the sum of digits of a given number
+9. Reverse number with math operators
+10. Reverse a given number with math operators
 
 Miscellaneous Questions
 1. Print a pyramid just like below:
