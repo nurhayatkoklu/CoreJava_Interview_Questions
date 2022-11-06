@@ -30,7 +30,8 @@ Math Questions
 7. Find the factorial of a number
 8. Find the sum of digits of a given number
 9. Reverse number with math operators
-10. Generate a random number between a min and max value;
+10. Generate a random number between a min and max value
+11. Sum up all the digits of a given int value until the total is 1 digit
 
 Miscellaneous Questions
 1. Print a pyramid just like below:
