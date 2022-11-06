@@ -11,6 +11,7 @@ Array Questions
 String Questions
 1. Reverse a string without using predefined reverse methods
 2. Count number of Vowels & Consonants
+3. Count how many b letter in a given String
 
 Math Questions
 1. Multiply two numbers without using multiply operator
@@ -22,7 +23,7 @@ Math Questions
 7. Find the factorial of a number
 8. Find the sum of digits of a given number
 9. Reverse number with math operators
-10. Reverse a given number with math operators
+10. Generate a random number between a min and max value;
 
 Miscellaneous Questions
 1. Print a pyramid just like below:
