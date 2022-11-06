@@ -1,0 +1,29 @@
+Array Questions
+1. Create a method which accepts Array and returns sum of all the elements in the array
+2. Find the greatest difference between values in an int array
+3. Compare same indexes of 2 different arrays and create another array for mathich values
+4. Sort an array with ascending and descending order
+5. Find the min and max values in a multidimensional array
+6. Eliminate duplicate values in an array
+7. Find 2nd smallest number in an int array
+8. Find the duplicates in an int array
+
+String Questions
+1. Reverse a string without using predefined reverse methods
+
+Math Questions
+1. Multiply two numbers without using multiply operator
+2. Swap the variables with and with out using Temp variable
+3. Write a Fibonnaci series of 8
+4. Print if a given value is prime or not
+5. Find 3 digits number in an array
+6. Find all numbers which can be divided by 3 and 5
+7. Find the factorial of a number
+8. Find the sum of digits of a given number
+
+Miscellaneous Questions
+1. Print a pyramid just like below:
+     *
+     **
+     ***
+     ****
