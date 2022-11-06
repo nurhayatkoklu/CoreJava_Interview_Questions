@@ -8,6 +8,7 @@ Array Questions
 7. Find 2nd smallest number in an int array
 8. Find the duplicates in an int array
 9. Reverse a given string array
+10. Check if two arrays contains same elements
 
 String Questions
 1. Reverse a string without using predefined reverse methods
