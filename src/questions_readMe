@@ -7,11 +7,17 @@ Array Questions
 6. Eliminate duplicate values in an array
 7. Find 2nd smallest number in an int array
 8. Find the duplicates in an int array
+9. Reverse a given string array
 
 String Questions
 1. Reverse a string without using predefined reverse methods
 2. Count number of Vowels & Consonants
 3. Count how many b letter in a given String
+4. Count the number of letters in a string and return true if it is even or false if it is odd
+5. Add to strings together, if the last character of the first string is the same
+with the first character of the second string remove on the characters
+6. Print the count of each character and the character itself in a given String
+
 
 Math Questions
 1. Multiply two numbers without using multiply operator
