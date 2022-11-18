@@ -9,6 +9,7 @@ Array Questions
 8. Find the duplicates in an int array
 9. Reverse a given string array
 10. Check if two arrays contains same elements
+11. Append two arrays. The second array should be appended to the end of first array
 
 String Questions
 1. Reverse a string without using predefined reverse methods
@@ -35,6 +36,8 @@ Math Questions
 11. Sum up all the digits of a given int value until the total is 1 digit
 12. Write a Java Program to check Armstrong number.
 13. Write a Java Program to find whether a number is palindrome or not.
+14. write a function which checks if a given number is fullfilling all 3 conditions at the same time:
+it is Fibonacci number, odd number and prime number. Consider reading the number from user input.
 
 Miscellaneous Questions
 1. Print a pyramid just like below:
